@@ -1,5 +1,4 @@
 #Objetivo: criar um programa que gere um número aleatório e que me dê dicas para acertalo
-#Em caso de erro debugar o codigo no VSCode
 
 import random
 import PySimpleGUI as sg
